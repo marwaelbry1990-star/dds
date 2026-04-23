@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://dds-jet.vercel.app/sitemap.xml
